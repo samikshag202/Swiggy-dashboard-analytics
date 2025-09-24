@@ -34,4 +34,4 @@ Create an **interactive Tableau dashboard** for Swiggy to analyze **web traffic 
 
 ---
 ## 📈 Dashboard Preview
-![Dashboard](Dashboard%201.png)
+![Dashboard](dashboard.png)
