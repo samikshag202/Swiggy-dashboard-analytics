@@ -33,4 +33,5 @@ Create an **interactive Tableau dashboard** for Swiggy to analyze **web traffic 
 - Provided **actionable recommendations** to optimize traffic and UX  
 
 ---
-
+## 📈 Dashboard Preview
+![Dashboard](Dashboard%201.png)
